@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Three Ways To Draw 3D Lines/drawline_cylinderMesh.unity
+  isLoaded: 1
+  isActive: 1
